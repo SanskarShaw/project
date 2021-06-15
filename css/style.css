@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Castoro&display=swap");
+
+.row-header {
+  margin: 0px auto;
+  padding: 0px auto;
+}
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 400px;
+}
+
+.jumbotron {
+  padding: 70px 30px 70px 30px;
+  margin: 0px auto;
+  height: 25%;
+  background: url(../images1/jumbo-back.jpg) 0 0 no-repeat ;
+        background-size: cover;
+  color: floralwhite;
+}
+.address {
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f;
+}
+
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+  /*background-color: #19041d;*/
+background: #a8ff78;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #78ffd6, #a8ff78);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #78ffd6, #a8ff78); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.navbar-dark {
+  /*background-color: #61103d;*/
+background: #000000;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #0f9b0f, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #0f9b0f, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.txblack{
+  color: black;
+}
+
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+.navcont {
+  margin: 0;
+  padding: 0;
+  color: black;
+}
+
+#Lobster {
+  font-family: "Cinzel", cursive;
+  font-size: large;
+}
+#Balsamiq {
+  font-family: "Balsamiq Sans", cursive;
+}
+.btn1{
+  background-color: #025aa5;
+}
+.btn {
+  background-color: #0f9b0f;
+  margin-top: 70px;
+  padding-top: 50px;
+  /* height: 200px; */
+  /* Swidth: 500px; */
+  /* margin-left: 50px;
+  border-radius: 20px; */
+  color: #ddd;
+  border-color: none;
+}
+.btn:hover {
+  background-color: #f2e8cf;
+  color: #19041d;
+}
+#name {
+  font-family: "Castoro", serif;
+  font-weight: bolder;
+  text-shadow: 2px 2px 5px #19041d;
+}
+.nav-item {
+  margin-left: 20px;
+}
+.image {
+  background-color: #995279d6;
+}
+#ab {
+  color: #000;
+}
+thead {
+  background-color: #f2e8cf;
+}
+tr {
+  color: #61103d;
+}
+
+td {
+  color: #000;
+}
+.d {
+  margin-top: 10%;
+}
+#mar {
+  margin-top: 5%;
+}
+.res {
+  width: 100%;
+}
+.bg{
+  background: #C33764;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #1D2671, #C33764);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #1D2671, #C33764); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
